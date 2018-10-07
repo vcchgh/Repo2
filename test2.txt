@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is CEE3-CECA
+
+ Directory of F:\SoapUi
+
+06-Oct-18  09:35 PM               153 index.html
+06-Oct-18  09:35 PM               264 test1.txt
+07-Oct-18  11:19 AM                 0 test2.txt
+               3 File(s)            417 bytes
+               0 Dir(s)  260,338,929,664 bytes free
